@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 	<string name="title">معلومات Treble</string>
-	<string name="sar_title">النظام كـ الجذر</string>
+	<string name="sar_title">النظام كجذر</string>
 	<string name="ab_title">الترقيات السلسة</string>
-	<string name="donate">التبرع</string>
+	<string name="donate">تبرع</string>
 	<string name="dynamicpartitions_title">الأقسام الديناميكية</string>
 	<string name="screen_images">الصور</string>
 	<string name="screen_details">التفاصيل</string>
@@ -18,7 +18,7 @@
 	<string name="browse_images">تصفح الصور</string>
 	<string name="view_details">عرض التفاصيل</string>
 	<string name="report_this_bug">أبلغ عن هذه المشكلة</string>
-	<string name="ask_a_question">أطرح سؤالا</string>
+	<string name="ask_a_question">أطرح سؤالاً</string>
 	<string name="report_a_bug">أبلغ عن مشكلة</string>
 	<string name="help_translate">ساعد في الترجمة</string>
 	<string name="contribute_code">ساهم في الكود</string>
@@ -33,6 +33,7 @@
 	<string name="treble_lite_title">VNDK المخفف</string>
 	<string name="treble_lite_explanation">تكوين VNDK هو المسؤول عن الفصل اﻹجباري بين الأجزاء المختلفة من النظام. أما VNDK Lite فيخفف من هذا القيد ويقلل من متطلبات التخزين، لكن مع توافق أقل.</string>
 	<string name="treble_lite_true">VNDK في الوضع المخفف</string>
+	<string name="treble_lite_false">VNDK ليس في الوضع المخفف</string>
 	<string name="treble_legacy_title">مكان البيان</string>
 	<string name="treble_legacy_explanation">يتم تخزين قائمة الميزات المدعومة التي يمكن للجهاز توفيرها لنظام أندرويد في بيان VINTF. سابقا كان يخزن هذا المِلَفّ في جذر قسم المُصنع، ولكن لم يعد هذا اﻷمر ممارسة جيدة.</string>
 	<string name="treble_legacy_true">قديم</string>
@@ -43,9 +44,9 @@
 	<string name="ab_false">غير مدعوم</string>
 	<string name="dynamicpartitions_explanation">يمكن للأجهزة ذات الأقسام الديناميكية إنشاء أقسام أو تعديلها أو حذفها خلال التحديثات. ولدعم هذه المزيّة يستخدم قسم ”فائق“ يحتوي على جميع الأقسام الأخرى باستثناء محمل اﻹقلاع. وعلى هذه الأجهزة يجب استخدام fastbootd في عملية التثبيت اليدوي لصور النظام.</string>
 	<string name="dynamicpartitions_unknown">غير معروف</string>
-	<string name="dynamicpartitions_true">مفعلة</string>
+	<string name="dynamicpartitions_true">مدعومة</string>
 	<string name="dynamicpartitions_false">غير مدعومة</string>
-	<string name="sar_explanation">يمكن تركيب قسم النظام إما كنظام ملفات جذر (النظام كجذر)، أو في دليل فرعي لقرص ذاكرة الوصول العشوائي الجذر (System-as-System). وتشير العديد من صور النظام الموحدة بشكل غير صحيح إلى هذه الخاصية على أنها A / B. فإذا كان الجهاز يستخدم System-as-Root فإنه يتطلب A / B GSI، أما خلاف ذلك فإنه يتطلب GSI A فقط.</string>
+        <string name="sar_explanation">يمكن تركيب قسم النظام كجذر لنظام الملفات (System-as-Root) أو في دليل فرعي ضمن قرص الذاكرة المؤقتة الجذرية (System-as-System). العديد من صور النظام العامة (GSI) تشير بشكل خاطئ إلى هذه الخاصية على أنها A/B. إذا كان الجهاز يستخدم نظام System-as-Root، فإنه يحتاج إلى صورة GSI من نوع A/B. خلاف ذلك، فإنه يحتاج إلى صورة GSI من نوع A-only.</string>
 	<string name="sar_unknown">غير معروف</string>
 	<string name="sar_false">معطل</string>
 	<string name="sar_true">مفعل</string>
@@ -60,15 +61,15 @@
 	<string name="binder_arch_title">معمارية المغلف</string>
 	<string name="binder_arch_explanation">تتحكم بُنية المغلف في كيفية تواصل البرامج. ونظرًا لأن البرامج بقسم المُصنع تحتاج إلى الاتصال ببرامج قسم النظام يجب أن تتطابق بنية المغلف بين الاثنين.</string>
 	<string name="binder_arch_unknown">غير معروف</string>
-	<string name="binder_arch_32_bit">32 بت</string>
-	<string name="binder_arch_64_bit">64 بت</string>
+	<string name="binder_arch_32_bit">32 bit</string>
+	<string name="binder_arch_64_bit">64 bit</string>
 	<string name="binder_arch_unknown_version">غير معروف، ويستخدم اﻹصدار %d</string>
 	<string name="no_browser">لا يوجد متصفح إنترنت مثبت!</string>
 	<string name="no_email">لا يوجد عميل بريد إلكتروني مثبت!</string>
 	<string name="close_dialog">إغلاق</string>
 	<string name="detail_placeholder">اختر عنصرًا لعرض تفاصيله</string>
 	<string name="donation_successful_title">نجح التبرع!</string>
-	<string name="donation_successful_body">شكرا لك على الدعم.</string>
+	<string name="donation_successful_body">شكراً لك على الدعم.</string>
 	<string name="donation_failed_title">فشل التبرع</string>
 	<string name="donation_failed_body">عفوًا يبدو أنه قد حدث خطأ ما… يُرجى المحاولة مرة أخرى لاحقًا!</string>
 	<string name="contribute">المساهمة</string>
