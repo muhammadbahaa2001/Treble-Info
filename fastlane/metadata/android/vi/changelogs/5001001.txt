@@ -1,0 +1,4 @@
+- Giảm kích thước ứng dụng và cải thiện hiệu suất
+- Cải thiện bản dịch
+- Bố cục tốt hơn trên màn hình nhỏ
+- Sửa lỗi

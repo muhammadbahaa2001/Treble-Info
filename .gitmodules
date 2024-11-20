@@ -1,0 +1,27 @@
+[submodule "poeditor-android"]
+	path = poeditor-android
+	url = https://github.com/penn5/poeditor-android
+[submodule "materialdesignicons-android"]
+	path = materialdesignicons-android
+	url = https://github.com/penn5/materialdesignicons-android
+[submodule "app/src/main/cpp/libvintf"]
+	path = app/src/main/cpp/libvintf
+	url = https://android.googlesource.com/platform/system/libvintf
+[submodule "app/src/main/cpp/libbase"]
+	path = app/src/main/cpp/libbase
+	url = https://android.googlesource.com/platform/system/libbase
+[submodule "app/src/main/cpp/Gki"]
+	path = app/src/main/cpp/Gki
+	url = https://android.googlesource.com/platform/packages/modules/Gki
+[submodule "app/src/main/cpp/tinyxml2"]
+	path = app/src/main/cpp/tinyxml2
+	url = https://android.googlesource.com/platform/external/tinyxml2
+[submodule "app/src/main/cpp/fmtlib"]
+	path = app/src/main/cpp/fmtlib
+	url = https://android.googlesource.com/platform/external/fmtlib
+[submodule "app/src/main/cpp/hardware_interfaces"]
+	path = app/src/main/cpp/hardware_interfaces
+	url = https://android.googlesource.com/platform/hardware/interfaces
+[submodule "app/src/main/cpp/system_core"]
+	path = app/src/main/cpp/system_core
+	url = https://android.googlesource.com/platform/system/core

@@ -1,0 +1,3 @@
+- Corriger des faux résultats sur certains appareils plus vieux
+- Mettre au points les traductions
+- Améliorer les tests et la détection des erreurs

@@ -1,0 +1,21 @@
+{
+  "uniqueId": "com.android.platform:system.core.libutils",
+  "artifactVersion": "6634c174",
+  "name": "libutils",
+  "description": "Provides a list of shared error codes for libvintf and dependencies",
+  "website": "https://android.googlesource.com/platform/system/core/+/6634c1741e4b7dc2b5ffdec8ca4725a25786b1c3/libutils/",
+  "organization": {
+    "name": "The Android Open Source Project",
+    "organisationUrl": "https://source.android.com"
+  },
+  "scm": {
+    "connection": "scm:https://android.googlesource.com/platform/system/core.git",
+    "url": "https://cs.android.com/android/platform/system/core",
+    "developerConnection": "scm:https://android.googlesource.com/platform/system/core.git"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "funding": [],
+  "tag": "trebledetector"
+}

@@ -1,0 +1,4 @@
+- Tamanho reduzido do aplicativo e melhor desempenho
+- Melhorias na tradução 
+- Melhor layout em telas pequenas 
+- Correção de bugs

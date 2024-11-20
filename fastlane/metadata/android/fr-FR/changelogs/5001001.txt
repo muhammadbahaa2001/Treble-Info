@@ -1,0 +1,4 @@
+- Reduire la taille de l'application tout en forçant son allure
+- Mettre au point les traductions
+- Améliorer la mise en page sur les petits écrans
+- Corriger des erreurs

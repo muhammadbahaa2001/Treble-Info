@@ -1,0 +1,21 @@
+{
+  "uniqueId": "com.android.platform:system.libvintf",
+  "artifactVersion": "f2e5cf9d",
+  "name": "libvintf",
+  "description": "Provides functions to parse and compare compatibility matrices and HAL manifests",
+  "website": "https://android.googlesource.com/platform/system/libvintf/+/f2e5cf9db52748bbaa49c96d813e5766408d14fb/",
+  "organization": {
+    "name": "The Android Open Source Project",
+    "organisationUrl": "https://source.android.com"
+  },
+  "scm": {
+    "connection": "scm:https://android.googlesource.com/platform/system/libvintf.git",
+    "url": "https://cs.android.com/android/platform/system/libvintf",
+    "developerConnection": "scm:https://android.googlesource.com/platform/system/libvintf.git"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "funding": [],
+  "tag": "trebledetector"
+}

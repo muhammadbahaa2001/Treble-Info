@@ -1,0 +1,4 @@
+Ukuran aplikasi yang lebih kecil dan kinerja yang lebih baik
+- Peningkatan terjemahan
+- Tata letak yang lebih baik pada layar kecil
+- Perbaikan bug

@@ -1,0 +1,1 @@
+ช่วยคุณตรวจสอบ Project Treble, A/B และ Architecture สำหรับการติดตั้ง GSI

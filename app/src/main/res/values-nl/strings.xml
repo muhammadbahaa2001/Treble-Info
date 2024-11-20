@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="title">Treble informatie</string>
+	<string name="sar_title">Systeem als root</string>
+	<string name="ab_title">Naadloze upgrades</string>
+	<string name="donate">Doneer</string>
+	<string name="dynamicpartitions_title">Dynamische partities</string>
+	<string name="screen_images">Afbeeldingen</string>
+	<string name="screen_details">Details</string>
+	<string name="screen_licenses">Licenties</string>
+	<string name="screen_contribute">Bijdragen</string>
+	<string name="no_treble_title">Uw apparaat ondersteunt Project Treble niet</string>
+	<string name="detection_error_title">Oops!</string>
+	<string name="detection_error_body">Helaas is er iets misgegaan tijdens het laden van deze data.</string>
+	<string name="images_found_title">Generic System Image gevonden!</string>
+	<string name="images_found_body">Uw apparaat geeft aan dat het Project Treble ondersteunt, dit is het soort image dat u nodig heeft:</string>
+	<string name="browse_images">Selecteer systeem bestand</string>
+	<string name="view_details">Geef details weer</string>
+	<string name="report_this_bug">Rapporteer bug</string>
+	<string name="ask_a_question">Stel een vraag</string>
+	<string name="report_a_bug">Rapporteer een bug</string>
+	<string name="help_translate">Help met vertalen</string>
+	<string name="contribute_code">Help met programmeren</string>
+	<string name="this_app">Deze applicatie</string>
+	<string name="treble_title">Project Treble</string>
+	<string name="treble_explanation">Project Treble voorziet een standaard interface voor het communiceren met het apparaat. Dit stelt de fabrikant in staat tot het maken van snellere updates, doordat de hardware interfaces niet worden geüpdatet.</string>
+	<string name="treble_unknown">Onbekend</string>
+	<string name="treble_true">Ondersteunt</string>
+	<string name="treble_false">Niet ondersteunt</string>
+	<string name="treble_version_title">VNDK versie</string>
+	<string name="treble_version_explanation">De VNDK versie is de Android versie waarvoor de vendor gemaakt is. Bij het gebruik van een nieuwere Android versie missen er misschien features, en het is niet mogelijk om een oudere Android versie te gebruiken.</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<string name="title">Treble Info</string>
+	<string name="sar_title">System-as-Root</string>
+	<string name="ab_title">Безшовні Оновлення</string>
+	<string name="donate">Підтримати</string>
+	<string name="screen_images">Фото</string>
+	<string name="screen_details">Деталі</string>
+	<string name="screen_licenses">Ліцензії</string>
+	<string name="screen_contribute">Приєднатися</string>
+	<string name="no_treble_title">Ваш пристрій не підтримує Project Treble</string>
+	<string name="no_treble_body">На жаль, ваш пристрій не підтримує встановлення GSI. На деякі пристрої можна встановити спеціальну прошивку з Інтернету.</string>
+	<string name="detection_error_title">Упс!</string>
+	<string name="detection_error_body">На жаль, під час спроби завантажити ці дані сталася помилка.</string>
+	<string name="view_details">Переглянути деталі</string>
+	<string name="report_this_bug">Повідомити про баг</string>
+	<string name="ask_a_question">Поставити запитання</string>
+	<string name="report_a_bug">Повідомити про баг</string>
+	<string name="help_translate">Допомогти перекласти</string>
+	<string name="this_app">Цей застосунок</string>
+	<string name="treble_title">Проєкт Treble</string>
+	<string name="treble_explanation">Project Treble надає стандартний інтерфейс для спілкування з обладнанням пристрою. Це дозволяє виробникам пристроїв створювати оновлення швидше, оскільки апаратні інтерфейси не потребують оновлення.</string>
+	<string name="treble_version_title">Версія VNDK</string>
+	<string name="treble_lite_true">VNDK у режимі lite</string>
+	<string name="treble_legacy_title">Розташування маніфесту</string>
+	<string name="treble_legacy_false">Сучасна</string>
+	<string name="dynamicpartitions_explanation">Пристрої з динамічними розділами можуть створювати, змінювати або видаляти розділи під час оновлення. Для підтримки цієї функції використовується «super» розділ. Цей розділ містить усі інші розділи, крім завантажувача. На цих пристроях перепрошивка повинна виконуватися за допомогою fastbootd.</string>
+	<string name="sar_explanation">Системний розділ можна змонтувати як кореневу файлову систему (System-as-Root) або в підкаталозі кореневого диска (System-as-System). Багато GSI неправильно називають цю властивість A/B. Якщо пристрій використовує System-as-Root, йому потрібен A/B GSI. В іншому випадку потрібен лише-A GSI.</string>
+</resources>

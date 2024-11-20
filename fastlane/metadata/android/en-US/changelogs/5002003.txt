@@ -1,0 +1,3 @@
+- Fix incorrect detection of some older devices
+- Update translations
+- Improve testing and error detection

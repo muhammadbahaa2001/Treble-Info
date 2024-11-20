@@ -1,0 +1,26 @@
+{
+  "uniqueId": "com.android.platform:external.tinyxml2",
+  "artifactVersion": "457bf28c",
+  "name": "TinyXML2",
+  "description": "TinyXML-2 is a simple, small, efficient, C++ XML parser that can be easily integrated into other programs.",
+  "website": "https://android.googlesource.com/platform/external/tinyxml2/+/457bf28c570c46db5d26ca33983704c29f2e0ee0/",
+  "organization": {
+    "name": "The Android Open Source Project",
+    "organisationUrl": "https://source.android.com"
+  },
+  "developers": [
+    {
+      "name": "Lee Thomason"
+    }
+  ],
+  "scm": {
+    "connection": "scm:https://android.googlesource.com/platform/external/tinyxml2.git",
+    "url": "https://cs.android.com/android/platform/external/tinyxml2",
+    "developerConnection": "scm:https://android.googlesource.com/platform/external/tinyxml2.git"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "funding": [],
+  "tag": "trebledetector"
+}

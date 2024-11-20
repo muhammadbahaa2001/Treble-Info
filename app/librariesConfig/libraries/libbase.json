@@ -1,0 +1,21 @@
+{
+  "uniqueId": "com.android.platform:system.libbase",
+  "artifactVersion": "54852c0e",
+  "name": "libbase",
+  "description": "This library is a collection of convenience functions to make common tasks easier and less error-prone.",
+  "website": "https://android.googlesource.com/platform/system/libbase/+/54852c0ea74ddaaf8e37cb7cf0c553a71059faca/",
+  "organization": {
+    "name": "The Android Open Source Project",
+    "organisationUrl": "https://source.android.com"
+  },
+  "scm": {
+    "connection": "scm:https://android.googlesource.com/platform/system/libbase.git",
+    "url": "https://cs.android.com/android/platform/system/libbase",
+    "developerConnection": "scm:https://android.googlesource.com/platform/system/libbase.git"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "funding": [],
+  "tag": "trebledetector"
+}

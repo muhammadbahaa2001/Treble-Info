@@ -1,0 +1,3 @@
+- Sửa lỗi phát hiện không chính xác trên một số thiết bị cũ
+- Cập nhật bản dịch
+- Cải thiện kiểm tra và phát hiện lỗi

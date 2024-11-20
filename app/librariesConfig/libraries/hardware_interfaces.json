@@ -1,0 +1,21 @@
+{
+  "uniqueId": "com.android.platform:frameworks.hardware.interfaces",
+  "artifactVersion": "94709486",
+  "name": "hardware_interfaces",
+  "description": "Provides the list of excluded interfaces to libvintf",
+  "website": "https://android.googlesource.com/platform/hardware/interfaces/+/9470948681fd12c52698a19a68573dcf1ddaad2e/",
+  "organization": {
+    "name": "The Android Open Source Project",
+    "organisationUrl": "https://source.android.com"
+  },
+  "scm": {
+    "connection": "scm:https://android.googlesource.com/platform/hardware/interfaces.git",
+    "url": "https://cs.android.com/android/platform/hardware/interfaces",
+    "developerConnection": "scm:https://android.googlesource.com/platform/hardware/interfaces.git"
+  },
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "funding": [],
+  "tag": "trebledetector"
+}

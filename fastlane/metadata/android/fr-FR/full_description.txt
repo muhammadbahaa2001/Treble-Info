@@ -1,0 +1,13 @@
+Cette application vous permet de vérifier les exigences Treble des images système génériques (GSI) et de déterminer le type de GSI adapté à votre appareil.
+
+ Principales caractéristiques:
+ * Vérifie le support du projet Treble
+ * Vérifie la version Treble/VNDK
+ * Vérifie l'architecture du système
+ * Vérifie l'état 'A-Only' ou 'A/B'
+ * Détecte l'utilisation du 'binder64'
+ * Détecte le système en tant que racine
+ * Ne nécessite pas l'accès racine (root)
+ * Prend en charge le thème sombre et MD3
+
+ Vous pouvez télécharger des images système génériques (GSI) partout sur Internet.  Consultez les forums XDA (non affiliés) pour des tutoriels simples.
